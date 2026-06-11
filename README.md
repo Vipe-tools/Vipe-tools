@@ -1,16 +1,16 @@
 # Hi, I'm Vipe
 
-Working in warehouse operations, e-commerce and process automation.
+I work in warehouse operations, e-commerce, IT support, and process automation.
 
-I develop practical software solutions to improve real-world workflows and reduce repetitive manual work. My main project is a warehouse workflow automation tool currently used in a real warehouse and e-commerce environment.
+My focus is on improving workflows, automating repetitive tasks, and developing practical software solutions for real-world business environments.
 
-## Featured Project
+## Projects
 
 ### UmlagerungsTool
 
-Warehouse workflow automation software for inventory relocation, barcode generation, Excel document creation and article management.
+An internal Python project for warehouse workflow automation, document generation, barcode integration, and article management.
 
-The project was developed to solve real operational problems and is actively used in daily business processes.
+The project was developed to solve real operational challenges in a warehouse and e-commerce environment and is actively used in daily business operations.
 
 ## Certifications
 
@@ -20,21 +20,18 @@ Hack The Box Profile:
 
 * https://profile.hackthebox.com/profile/019d828d-840b-72ec-af96-43a64950ae6d
 
-## Areas of Interest
+## Interests
 
 * Process Automation
 * Cybersecurity
-* Python Desktop Applications
-* Warehouse Operations
-* E-Commerce Systems
-* Workflow Optimization
+* Python Applications
 
 ## Current Focus
 
-* Improving and maintaining internal business tools
-* Expanding automation of warehouse workflows
-* Continuing cybersecurity education
+* Developing and improving internal business tools
+* Automating operational workflows
+* Expanding my cybersecurity knowledge and skills
 
-## GitHub
+## About This GitHub Profile
 
-This GitHub profile is primarily used to document projects, automation tools and technical learning progress.
+This GitHub profile is primarily used to document projects, automation solutions, and my ongoing technical learning journey.
