@@ -1,11 +1,9 @@
 # Hi, I'm Vipe
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-252525)]()
-[![Process Automation](https://img.shields.io/badge/Process-Automation-blue)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Linux](https://img.shields.io/badge/Linux-Arch-FCC624?logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![HTB CJCA](https://img.shields.io/badge/HTB-CJCA-9FEF00?logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/)
+[![HTB CJCA](https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate)
 
 Python developer with a focus on warehouse automation, process optimization, and cybersecurity.
 
