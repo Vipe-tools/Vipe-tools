@@ -1,37 +1,85 @@
 # Hi, I'm Vipe
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-252525)]()
+[![Process Automation](https://img.shields.io/badge/Process-Automation-blue)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Linux](https://img.shields.io/badge/Linux-Arch-FCC624?logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![HTB CJCA](https://img.shields.io/badge/HTB-CJCA-9FEF00?logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/)
+
+Python developer with a focus on warehouse automation, process optimization, and cybersecurity.
+
+I develop practical desktop applications that solve real operational problems in warehouse and e-commerce environments. My projects are driven by real business requirements and focus on improving efficiency through automation rather than serving as demonstration or tutorial software.
+
+---
+
+## About Me
+
 I work in warehouse operations, e-commerce, IT support, and process automation.
 
-My focus is on improving workflows, automating repetitive tasks, and developing practical software solutions for real-world business environments.
+My primary interests include designing maintainable software, automating repetitive workflows, and continuously expanding my knowledge in software engineering and cybersecurity.
+
+---
 
 ## Projects
 
 ### UmlagerungsTool
 
-An internal Python project for warehouse workflow automation, document generation, barcode integration, and article management.
+A Python desktop application that automates warehouse workflows by generating relocation documents, managing article templates, integrating barcode generation, and automating Excel-based processes.
 
-The project was developed to solve real operational challenges in a warehouse and e-commerce environment and is actively used in daily business operations.
+### Lager Analyse System
+
+A Python and PySide6 desktop application for analyzing warehouse location data from CSV exports, providing a fast overview of free, occupied, blocked, inactive, and unknown storage locations.
+
+---
+
+## Tech Stack
+
+- Python
+- PySide6
+- Tkinter
+- OpenPyXL
+- PyInstaller
+- Inno Setup
+- Git
+- Windows
+- Linux
+
+---
 
 ## Certifications
 
-* HTB Certified Junior Cybersecurity Associate (CJCA)
+- Hack The Box Certified Junior Cybersecurity Associate (CJCA)
 
-Hack The Box Profile:
+---
 
-* https://profile.hackthebox.com/profile/019d828d-840b-72ec-af96-43a64950ae6d
+## Profiles
+
+- [Hack The Box Profile](https://profile.hackthebox.com/profile/019d828d-840b-72ec-af96-43a64950ae6d)
+
+---
 
 ## Interests
 
-* Process Automation
-* Cybersecurity
-* Python Applications
+- Warehouse Automation
+- Process Automation
+- Cybersecurity
+- Python Desktop Applications
+- Software Engineering
+
+---
 
 ## Current Focus
 
-* Developing and improving internal business tools
-* Automating operational workflows
-* Expanding my cybersecurity knowledge and skills
+- Developing and improving internal business tools
+- Building maintainable desktop applications
+- Automating operational workflows
+- Expanding my cybersecurity knowledge and practical skills
+
+---
 
 ## About This GitHub Profile
 
-This GitHub profile is primarily used to document projects, automation solutions, and my ongoing technical learning journey.
+This GitHub profile showcases projects developed to solve real-world operational challenges, together with personal software engineering projects and my ongoing learning journey in cybersecurity and automation.
+
+Most repositories published here originate from practical business requirements and continue to evolve as new challenges and ideas emerge.
