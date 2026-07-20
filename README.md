@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Linux](https://img.shields.io/badge/Linux-Arch-FCC624?logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Hack The Box CJCA](https://img.shields.io/badge/Hack%20The%20Box-CJCA-C62828?logo=hackthebox&logoColor=9FEF00)](https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate)
+[![HTB CJCA](https://img.shields.io/badge/Hack%20The%20Box-CJCA-C62828?logo=hackthebox&logoColor=9FEF00)](https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate)
 Python developer with a focus on warehouse automation, process optimization, and cybersecurity.
 
 I develop practical desktop applications that solve real operational problems in warehouse and e-commerce environments. My projects are driven by real business requirements and focus on improving efficiency through automation rather than serving as demonstration or tutorial software.
