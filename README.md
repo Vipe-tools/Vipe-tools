@@ -36,9 +36,9 @@ A Python and PySide6 desktop application for analyzing warehouse location data f
 ## Tech Stack
 
 - Python
-- PySide6
+- HTML
+- CSS
 - Tkinter
-- OpenPyXL
 - PyInstaller
 - Inno Setup
 - Git
