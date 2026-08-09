@@ -1,6 +1,8 @@
 # Hi, I'm Vipe
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Linux](https://img.shields.io/badge/Linux-Arch-FCC624?logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![HTB CJCA](https://img.shields.io/badge/HTB-CJCA-C62828?logo=hackthebox&logoColor=9FEF00)](https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate)
