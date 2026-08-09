@@ -53,12 +53,6 @@ A Python and PySide6 desktop application for analyzing warehouse location data f
 
 ---
 
-## Profiles
-
-- [Hack The Box Profile](https://profile.hackthebox.com/profile/019d828d-840b-72ec-af96-43a64950ae6d)
-
----
-
 ## Interests
 
 - Warehouse Automation
