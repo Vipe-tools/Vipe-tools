@@ -6,6 +6,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Linux](https://img.shields.io/badge/Linux-Arch-FCC624?logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![HTB CJCA](https://img.shields.io/badge/HTB-CJCA-C62828?logo=hackthebox&logoColor=9FEF00)](https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate)
+[![HTB CDSA](https://img.shields.io/badge/HTB-CDSA-00B1FD?logo=hackthebox&logoColor=9FEF00)](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
 
 Python developer with a focus on warehouse automation, process optimization, and cybersecurity.
 
@@ -50,6 +51,7 @@ A Python and PySide6 desktop application for analyzing warehouse location data f
 ## Certifications
 
 - Hack The Box Certified Junior Cybersecurity Associate (CJCA)
+- Hack The Box Certified Defensive Security Analyst (CDSA)
 
 ---
 
